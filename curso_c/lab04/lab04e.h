@@ -1,0 +1,2 @@
+
+void acumulador(int num);

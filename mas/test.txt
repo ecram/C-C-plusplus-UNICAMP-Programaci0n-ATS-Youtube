@@ -1,0 +1,407 @@
+
+Cuantas casillas quiere que recorra por lo menos?
+(Un numero positivo menor o igual que 64): 
+
+Inicio x: 1
+Inicio y: 1
+Arreglo[y][x] = 1
+1. Ciclos: 1 hasta 1000
+2. dado1 aleatorio: 2
+3. dado2 aleatorio: 6
+4. si (2==1.000000) entra a 1==>
+5. si (1==5.000000)
+6. si (0==0)
+10. (fabs(fabs(x) - fabs(dado1)): 1.000000 == 1
+11. (fabs(fabs(y) - fabs(dado2)): 5.000000 == 2
+12. 0 == 0 : (Arreglo[dado1][dado2])
+
+
+ 16. fin1. Ciclos: 2 hasta 1000
+2. dado1 aleatorio: 1
+3. dado2 aleatorio: 3
+4. si (2==0.000000) entra a 1==>
+5. si (1==2.000000)
+6. si (0==0)
+10. (fabs(fabs(x) - fabs(dado1)): 0.000000 == 1
+11. (fabs(fabs(y) - fabs(dado2)): 2.000000 == 2
+12. 0 == 0 : (Arreglo[dado1][dado2])
+
+
+ 16. fin1. Ciclos: 3 hasta 1000
+2. dado1 aleatorio: 8
+3. dado2 aleatorio: 6
+4. si (2==7.000000) entra a 1==>
+5. si (1==5.000000)
+6. si (0==0)
+10. (fabs(fabs(x) - fabs(dado1)): 7.000000 == 1
+11. (fabs(fabs(y) - fabs(dado2)): 5.000000 == 2
+12. 0 == 0 : (Arreglo[dado1][dado2])
+
+
+ 16. fin1. Ciclos: 4 hasta 1000
+2. dado1 aleatorio: 2
+3. dado2 aleatorio: 5
+4. si (2==1.000000) entra a 1==>
+5. si (1==4.000000)
+6. si (0==0)
+10. (fabs(fabs(x) - fabs(dado1)): 1.000000 == 1
+11. (fabs(fabs(y) - fabs(dado2)): 4.000000 == 2
+12. 0 == 0 : (Arreglo[dado1][dado2])
+
+
+ 16. fin1. Ciclos: 5 hasta 1000
+2. dado1 aleatorio: 2
+3. dado2 aleatorio: 4
+4. si (2==1.000000) entra a 1==>
+5. si (1==3.000000)
+6. si (0==0)
+10. (fabs(fabs(x) - fabs(dado1)): 1.000000 == 1
+11. (fabs(fabs(y) - fabs(dado2)): 3.000000 == 2
+12. 0 == 0 : (Arreglo[dado1][dado2])
+
+
+ 16. fin1. Ciclos: 6 hasta 1000
+2. dado1 aleatorio: 8
+3. dado2 aleatorio: 6
+4. si (2==7.000000) entra a 1==>
+5. si (1==5.000000)
+6. si (0==0)
+10. (fabs(fabs(x) - fabs(dado1)): 7.000000 == 1
+11. (fabs(fabs(y) - fabs(dado2)): 5.000000 == 2
+12. 0 == 0 : (Arreglo[dado1][dado2])
+
+
+ 16. fin1. Ciclos: 7 hasta 1000
+2. dado1 aleatorio: 7
+3. dado2 aleatorio: 3
+4. si (2==6.000000) entra a 1==>
+5. si (1==2.000000)
+6. si (0==0)
+10. (fabs(fabs(x) - fabs(dado1)): 6.000000 == 1
+11. (fabs(fabs(y) - fabs(dado2)): 2.000000 == 2
+12. 0 == 0 : (Arreglo[dado1][dado2])
+
+
+ 16. fin1. Ciclos: 8 hasta 1000
+2. dado1 aleatorio: 2
+3. dado2 aleatorio: 4
+4. si (2==1.000000) entra a 1==>
+5. si (1==3.000000)
+6. si (0==0)
+10. (fabs(fabs(x) - fabs(dado1)): 1.000000 == 1
+11. (fabs(fabs(y) - fabs(dado2)): 3.000000 == 2
+12. 0 == 0 : (Arreglo[dado1][dado2])
+
+
+ 16. fin1. Ciclos: 9 hasta 1000
+2. dado1 aleatorio: 8
+3. dado2 aleatorio: 8
+4. si (2==7.000000) entra a 1==>
+5. si (1==7.000000)
+6. si (0==0)
+10. (fabs(fabs(x) - fabs(dado1)): 7.000000 == 1
+11. (fabs(fabs(y) - fabs(dado2)): 7.000000 == 2
+12. 0 == 0 : (Arreglo[dado1][dado2])
+
+
+ 16. fin1. Ciclos: 10 hasta 1000
+2. dado1 aleatorio: 7
+3. dado2 aleatorio: 5
+4. si (2==6.000000) entra a 1==>
+5. si (1==4.000000)
+6. si (0==0)
+10. (fabs(fabs(x) - fabs(dado1)): 6.000000 == 1
+11. (fabs(fabs(y) - fabs(dado2)): 4.000000 == 2
+12. 0 == 0 : (Arreglo[dado1][dado2])
+
+
+ 16. fin1. Ciclos: 11 hasta 1000
+2. dado1 aleatorio: 1
+3. dado2 aleatorio: 3
+4. si (2==0.000000) entra a 1==>
+5. si (1==2.000000)
+6. si (0==0)
+10. (fabs(fabs(x) - fabs(dado1)): 0.000000 == 1
+11. (fabs(fabs(y) - fabs(dado2)): 2.000000 == 2
+12. 0 == 0 : (Arreglo[dado1][dado2])
+
+
+ 16. fin1. Ciclos: 12 hasta 1000
+2. dado1 aleatorio: 5
+3. dado2 aleatorio: 3
+4. si (2==4.000000) entra a 1==>
+5. si (1==2.000000)
+6. si (0==0)
+10. (fabs(fabs(x) - fabs(dado1)): 4.000000 == 1
+11. (fabs(fabs(y) - fabs(dado2)): 2.000000 == 2
+12. 0 == 0 : (Arreglo[dado1][dado2])
+
+
+ 16. fin1. Ciclos: 13 hasta 1000
+2. dado1 aleatorio: 4
+3. dado2 aleatorio: 8
+4. si (2==3.000000) entra a 1==>
+5. si (1==7.000000)
+6. si (0==0)
+10. (fabs(fabs(x) - fabs(dado1)): 3.000000 == 1
+11. (fabs(fabs(y) - fabs(dado2)): 7.000000 == 2
+12. 0 == 0 : (Arreglo[dado1][dado2])
+
+
+ 16. fin1. Ciclos: 14 hasta 1000
+2. dado1 aleatorio: 5
+3. dado2 aleatorio: 3
+4. si (2==4.000000) entra a 1==>
+5. si (1==2.000000)
+6. si (0==0)
+10. (fabs(fabs(x) - fabs(dado1)): 4.000000 == 1
+11. (fabs(fabs(y) - fabs(dado2)): 2.000000 == 2
+12. 0 == 0 : (Arreglo[dado1][dado2])
+
+
+ 16. fin1. Ciclos: 15 hasta 1000
+
+
+2. dado1 aleatorio: 2
+3. dado2 aleatorio: 3
+4. si (2==1.000000) entra a 1==>
+	5. si (1==2.000000)
+	6. si (0==0)
+10. (fabs(fabs(x) - fabs(dado1)): 1.000000 == 1
+11. (fabs(fabs(y) - fabs(dado2)): 2.000000 == 2
+12. 0 == 0 : (Arreglo[dado1][dado2])
+13. Arreglo[dado1][dado2] = ++contador: 2
+14. x = dado1: 2
+15. y = dado2: 3
+
+
+Este es el tablero:
+
+  1	 0	 0	 0	 0	 0	 0	 0	
+
+
+ 0	 0	 2	 0	 0	 0	 0	 0	
+
+
+ 3	 0	 0	 0	 0	 0	 0	 0	
+
+
+ 0	 0	 4	 0	 0	 0	 0	 0	
+
+
+ 0	 0	 0	 0	 5	 0	 0	 0	
+
+
+ 0	 0	 0	 0	 0	 0	 0	 0	
+
+
+ 0	 0	 0	 0	 0	 0	 0	 0	
+
+
+ 0	 0	 0	 0	 0	 0	 0	 0
+
+
+ 16. fin1. Ciclos: 1 hasta 1000
+2. dado1 aleatorio: 7
+3. dado2 aleatorio: 4
+4. si (2==5.000000) entra a 1==>
+5. si (1==1.000000)
+6. si (0==0)
+10. (fabs(fabs(x) - fabs(dado1)): 5.000000 == 1
+11. (fabs(fabs(y) - fabs(dado2)): 1.000000 == 2
+12. 0 == 0 : (Arreglo[dado1][dado2])
+
+
+ 16. fin1. Ciclos: 2 hasta 1000
+2. dado1 aleatorio: 8
+3. dado2 aleatorio: 8
+4. si (2==6.000000) entra a 1==>
+5. si (1==5.000000)
+6. si (0==0)
+10. (fabs(fabs(x) - fabs(dado1)): 6.000000 == 1
+11. (fabs(fabs(y) - fabs(dado2)): 5.000000 == 2
+12. 0 == 0 : (Arreglo[dado1][dado2])
+
+
+ 16. fin1. Ciclos: 3 hasta 1000
+2. dado1 aleatorio: 6
+3. dado2 aleatorio: 7
+4. si (2==4.000000) entra a 1==>
+5. si (1==4.000000)
+6. si (0==0)
+10. (fabs(fabs(x) - fabs(dado1)): 4.000000 == 1
+11. (fabs(fabs(y) - fabs(dado2)): 4.000000 == 2
+12. 0 == 0 : (Arreglo[dado1][dado2])
+
+
+ 16. fin1. Ciclos: 4 hasta 1000
+2. dado1 aleatorio: 5
+3. dado2 aleatorio: 7
+4. si (2==3.000000) entra a 1==>
+5. si (1==4.000000)
+6. si (0==0)
+10. (fabs(fabs(x) - fabs(dado1)): 3.000000 == 1
+11. (fabs(fabs(y) - fabs(dado2)): 4.000000 == 2
+12. 0 == 0 : (Arreglo[dado1][dado2])
+
+
+ 16. fin1. Ciclos: 5 hasta 1000
+2. dado1 aleatorio: 3
+3. dado2 aleatorio: 6
+4. si (2==1.000000) entra a 1==>
+5. si (1==3.000000)
+6. si (0==0)
+10. (fabs(fabs(x) - fabs(dado1)): 1.000000 == 1
+11. (fabs(fabs(y) - fabs(dado2)): 3.000000 == 2
+12. 0 == 0 : (Arreglo[dado1][dado2])
+
+
+ 16. fin1. Ciclos: 6 hasta 1000
+2. dado1 aleatorio: 2
+3. dado2 aleatorio: 2
+4. si (2==0.000000) entra a 1==>
+5. si (1==1.000000)
+6. si (0==0)
+10. (fabs(fabs(x) - fabs(dado1)): 0.000000 == 1
+11. (fabs(fabs(y) - fabs(dado2)): 1.000000 == 2
+12. 0 == 0 : (Arreglo[dado1][dado2])
+
+
+ 16. fin1. Ciclos: 7 hasta 1000
+2. dado1 aleatorio: 3
+3. dado2 aleatorio: 1
+4. si (2==1.000000) entra a 1==>
+5. si (1==2.000000)
+6. si (0==0)
+10. (fabs(fabs(x) - fabs(dado1)): 1.000000 == 1
+11. (fabs(fabs(y) - fabs(dado2)): 2.000000 == 2
+12. 0 == 0 : (Arreglo[dado1][dado2])
+13. Arreglo[dado1][dado2] = ++contador: 3
+14. x = dado1: 3
+15. y = dado2: 1
+
+
+Este es el tablero:
+
+  1	 0	 0	 0	 0	 0	 0	 0	
+
+
+ 0	 0	 2	 0	 0	 0	 0	 0	
+
+
+ 3	 0	 0	 0	 0	 0	 0	 0	
+
+
+ 0	 0	 4	 0	 0	 0	 0	 0	
+
+
+ 0	 0	 0	 0	 5	 0	 0	 0	
+
+
+ 0	 0	 0	 0	 0	 0	 0	 0	
+
+
+ 0	 0	 0	 0	 0	 0	 0	 0	
+
+
+ 0	 0	 0	 0	 0	 0	 0	 0
+
+
+ 16. fin1. Ciclos: 1 hasta 1000
+2. dado1 aleatorio: 5
+3. dado2 aleatorio: 5
+4. si (2==2.000000) entra a 1==>
+5. si (1==4.000000)
+6. si (0==0)
+10. (fabs(fabs(x) - fabs(dado1)): 2.000000 == 1
+11. (fabs(fabs(y) - fabs(dado2)): 4.000000 == 2
+12. 0 == 0 : (Arreglo[dado1][dado2])
+
+
+ 16. fin1. Ciclos: 2 hasta 1000
+2. dado1 aleatorio: 4
+3. dado2 aleatorio: 4
+4. si (2==1.000000) entra a 1==>
+5. si (1==3.000000)
+6. si (0==0)
+10. (fabs(fabs(x) - fabs(dado1)): 1.000000 == 1
+11. (fabs(fabs(y) - fabs(dado2)): 3.000000 == 2
+12. 0 == 0 : (Arreglo[dado1][dado2])
+
+
+ 16. fin1. Ciclos: 3 hasta 1000
+2. dado1 aleatorio: 4
+3. dado2 aleatorio: 3
+4. si (2==1.000000) entra a 1==>
+5. si (1==2.000000)
+6. si (0==0)
+10. (fabs(fabs(x) - fabs(dado1)): 1.000000 == 1
+11. (fabs(fabs(y) - fabs(dado2)): 2.000000 == 2
+12. 0 == 0 : (Arreglo[dado1][dado2])
+13. Arreglo[dado1][dado2] = ++contador: 4
+14. x = dado1: 4
+15. y = dado2: 3
+
+
+ 16. fin1. Ciclos: 1 hasta 1000
+2. dado1 aleatorio: 8
+3. dado2 aleatorio: 4
+4. si (2==4.000000) entra a 1==>
+5. si (1==1.000000)
+6. si (0==0)
+10. (fabs(fabs(x) - fabs(dado1)): 4.000000 == 1
+11. (fabs(fabs(y) - fabs(dado2)): 1.000000 == 2
+12. 0 == 0 : (Arreglo[dado1][dado2])
+
+
+ 16. fin1. Ciclos: 2 hasta 1000
+2. dado1 aleatorio: 5
+3. dado2 aleatorio: 5
+4. si (2==1.000000) entra a 1==>
+5. si (1==2.000000)
+6. si (0==0)
+10. (fabs(fabs(x) - fabs(dado1)): 1.000000 == 1
+11. (fabs(fabs(y) - fabs(dado2)): 2.000000 == 2
+12. 0 == 0 : (Arreglo[dado1][dado2])
+13. Arreglo[dado1][dado2] = ++contador: 5
+14. x = dado1: 5
+15. y = dado2: 5
+
+
+ 16. fin
+LISTO!
+
+Se recorrieron 5 casillas
+
+Se intentaron 1 circuitos antes de obtener el requerido.
+
+
+Este es el tablero:
+
+  1	 0	 0	 0	 0	 0	 0	 0	
+
+
+ 0	 0	 2	 0	 0	 0	 0	 0	
+
+
+ 3	 0	 0	 0	 0	 0	 0	 0	
+
+
+ 0	 0	 4	 0	 0	 0	 0	 0	
+
+
+ 0	 0	 0	 0	 5	 0	 0	 0	
+
+
+ 0	 0	 0	 0	 0	 0	 0	 0	
+
+
+ 0	 0	 0	 0	 0	 0	 0	 0	
+
+
+ 0	 0	 0	 0	 0	 0	 0	 0	
+
+
+
+
+
